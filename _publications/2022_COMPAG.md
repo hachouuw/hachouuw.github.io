@@ -2,7 +2,6 @@
 title: "Developing and evaluating an autonomous agricultural all-terrain vehicle for field experimental rollover simulations"
 collection: publications
 permalink: /publication/2022_COMPAG
-<!-- 2009-10-01-paper-title-number-1 -->
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: March 2022
 venue: 'Computers and Electronics in Agriculture'
