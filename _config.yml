@@ -102,8 +102,8 @@ author:
   instagram        :
 #   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hsiao-yang-amber-chou/"
-  orcid            : "https://orcid.org/0000-0003-1965-148X"
+  linkedin         : "/hsiao-yang-amber-chou/"
+  orcid            : "/0000-0003-1965-148X" #https://orcid.org/0000-0003-1965-148X
   pinterest        :
   soundcloud       :
 #   stackoverflow    : # http://stackoverflow.com/users/123456/username
