@@ -9,5 +9,5 @@ redirect_from:
 ---
 PhD Student, Researcher
 ======
-I am a Ph.D. student at the University of Washington, Seattle focusing on \textbf{improving the \textit{accessibility, robustness}, and \textit{usability} of human-computer/-machine interfaces}. My research interest lies in the intersection of bioengineering and electrical \& computer engineering. My proposed Ph.D. research leverages theoretical techniques from control theory, game theory, and sensorimotor control to synthesize co-adaptive multimodal interfaces, and makes progress toward feasible and inclusive human-computer/-machine interfaces.
+I am a Ph.D. student at the University of Washington, Seattle focusing on \textbf{improving the \textit{accessibility, robustness}, and \textit{usability} of human-computer/-machine interfaces}. I am advised by [Dr. Sam Burden](https://faculty.washington.edu/sburden/bio/). My research interest lies in the intersection of bioengineering and electrical \& computer engineering. My proposed Ph.D. research leverages theoretical techniques from control theory, game theory, and sensorimotor control to synthesize co-adaptive multimodal interfaces, and makes progress toward feasible and inclusive human-computer/-machine interfaces.
 
